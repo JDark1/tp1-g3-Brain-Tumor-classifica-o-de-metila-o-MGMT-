@@ -1,0 +1,4 @@
+abordagem,AUC (média±dp),AUC agrupado,AUC-PR (média±dp),Acc. balanceada,Sensibilidade,Especificidade,F1,Acurácia
+Baseline trivial (classe majoritária),0.500 ± 0.000,n/d (artefato do prior por dobra),0.500 ± 0.118,0.500 ± 0.000,0.600 ± 0.548,0.400 ± 0.548,0.353 ± 0.322,0.400 ± 0.037
+Melhor combinação: GLCM + LogReg (otimista),0.738 ± 0.113,0.624,0.807 ± 0.090,0.645 ± 0.080,0.616 ± 0.296,0.674 ± 0.226,0.575 ± 0.134,0.600 ± 0.091
+Seleção aninhada do par (estimativa sem viés de seleção),0.542 ± 0.138,0.51,0.697 ± 0.056,0.557 ± 0.058,0.507 ± 0.234,0.607 ± 0.279,0.485 ± 0.083,0.517 ± 0.070
