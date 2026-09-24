@@ -1,0 +1,10 @@
+# Versões registradas em outputs/marco3/metadados_execucao.json (execução do Marco 3 no Kaggle, Python 3.12).
+# Instalação: pip install -r requirements.txt
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.6.1
+scikit-image==0.25.2
+opencv-python-headless>=4.13,<4.14
+pydicom==3.0.2
+matplotlib>=3.7
