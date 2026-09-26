@@ -1,2 +1,0 @@
-paciente,modalidade,n_cortes,dimensoes,pixel_spacing,slice_thickness,modality_tag,rows,columns,image_orientation_patient,plano_estimado
-00000,FLAIR,400,"(512, 512)","[0.5, 0.5]",1.2,MR,512,512,"[1, -0, 0, -0, -0, -1]",coronal

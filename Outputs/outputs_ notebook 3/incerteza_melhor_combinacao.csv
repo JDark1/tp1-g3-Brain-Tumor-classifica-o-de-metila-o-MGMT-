@@ -1,2 +1,0 @@
-combinacao,escopo_permutacao,auc_agrupado,auc_agrupado_ic95_inf,auc_agrupado_ic95_sup,auc_pr_agrupado,auc_pr_ic95_inf,auc_pr_ic95_sup,auc_medio_dobras,n_permutacoes,p_valor_permutacao
-GLCM + LogReg,melhor,0.6244444444444445,0.48378472222222224,0.7688034549362673,0.6948449878757061,0.5293030931384411,0.8319499508903827,0.7380357142857144,200,0.004975124378109453
