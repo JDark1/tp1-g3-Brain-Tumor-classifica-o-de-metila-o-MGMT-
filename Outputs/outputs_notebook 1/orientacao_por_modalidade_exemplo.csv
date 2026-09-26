@@ -1,0 +1,5 @@
+paciente,modalidade,plano_estimado,n_cortes
+00000,FLAIR,coronal,400
+00000,T1w,axial,33
+00000,T1wCE,coronal,129
+00000,T2w,sagital,408

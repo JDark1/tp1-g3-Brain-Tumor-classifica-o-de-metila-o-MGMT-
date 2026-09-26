@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "n_pacientes": 60,
+  "n_dobras": 5,
+  "modalidade": "T1wCE",
+  "glcm_distancia": 1,
+  "glcm_niveis_cinza": 32,
+  "versoes": {
+    "python": "3.12.13",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "scikit-image": "0.25.2",
+    "pydicom": "3.0.2"
+  }
+}
